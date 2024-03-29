@@ -31,7 +31,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RingCentralCustom\\SDK\\": "src/"
+      "RingCentral\\SDK\\": "src/"
     }
   },
   "extra": {
